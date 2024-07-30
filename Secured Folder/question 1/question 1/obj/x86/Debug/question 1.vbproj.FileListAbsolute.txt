@@ -1,0 +1,8 @@
+C:\Users\23103377\Desktop\Secured Folder\question 1\question 1\bin\Debug\question 1.exe
+C:\Users\23103377\Desktop\Secured Folder\question 1\question 1\bin\Debug\question 1.pdb
+C:\Users\23103377\Desktop\Secured Folder\question 1\question 1\bin\Debug\question 1.xml
+C:\Users\23103377\Desktop\Secured Folder\question 1\question 1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\23103377\Desktop\Secured Folder\question 1\question 1\obj\x86\Debug\question 1.vbproj.GenerateResource.Cache
+C:\Users\23103377\Desktop\Secured Folder\question 1\question 1\obj\x86\Debug\question 1.exe
+C:\Users\23103377\Desktop\Secured Folder\question 1\question 1\obj\x86\Debug\question 1.xml
+C:\Users\23103377\Desktop\Secured Folder\question 1\question 1\obj\x86\Debug\question 1.pdb
